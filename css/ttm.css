@@ -1,0 +1,124 @@
+*{
+	margin: 0;
+}
+.colorGrey{
+	background-color: #222222;
+	width: 100%;
+	height: 699px;
+}
+
+.header #logo1{
+	position: absolute;
+	margin-top: 55px;
+	margin-left: 160px;
+}
+
+.header #company{
+	position: absolute;
+	width: 68.92px;
+	height: 10.39px;
+	margin-left: 285.4px;
+	margin-top: 88.82px;
+
+	color: #D4D4D4;
+	font-family: "Roboto";
+}
+
+.header #catalogue{
+	position: absolute;
+	width: 55.79px;
+	height: 10.39px;
+	margin-left: 430.4px;
+	margin-top: 88.82px;
+
+	color: #D4D4D4;
+	font-family: "Roboto";
+}
+
+.header #contacts{
+	position: absolute;
+	width: 66.18px;
+	height: 10.39px;
+	margin-left: 555.4px;
+	margin-top: 88.82px;
+
+	color: #D4D4D4;
+	font-family: "Roboto";
+}
+
+.header #mail-icon1{
+	position: absolute;
+	float: right;
+	margin-left: 85%;
+	margin-top: 85px;
+}
+
+.header #phone-icon1{
+	position: absolute;
+	float: right;
+	margin-left: 88%;
+	margin-top: 85px;
+}
+
+.centerText #text1{
+	display: flex;
+	font-family: "Bahnschrift";
+	position: absolute;
+	width: 235px;
+	height: 85px;
+	top: 240px;
+	left: 22%;
+	color: white;
+	white-space: pre-line;
+}
+
+.centerText p{
+	position: absolute;
+	margin-top: 364px;
+	margin-left: 22%;
+	width: 260px;
+	height: 51px;
+	font-family: "Arial";
+	color: #c4c4c4;
+}
+
+.centerText #moon-rocket1{
+	margin-top: 140px;
+	float: right;
+	margin-right: 12%;
+}
+
+.centerText #buttonChoose{
+	position: absolute;
+	margin-top: 470px;
+	margin-left: 22%;
+	width: 240px;
+	height: 50px;
+	background-color: #ffcb06;
+	border-radius: 100px;
+	font-family: "Roboto";
+	font-weight: bold;
+}
+
+.centerText #buttonChoose span{
+	position: absolute;
+	margin-top: 15px;
+	margin-left: 10%;
+}
+
+.centerText #buttonChoose img{
+	position: absolute;
+	margin-top: 15px;
+	margin-left: 82%;
+}
+
+.footer1{
+	background-color: #131313;
+}
+
+.footer1 table{
+	padding: 10%;
+	align-items: center;
+	color: #d4d4d4;
+	font-family: "Roboto";
+}
