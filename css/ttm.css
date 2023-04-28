@@ -62,7 +62,7 @@
 
 .centerText #text1{
 	display: flex;
-	font-family: "Bahnschrift";
+	font-family: "Courier New";
 	position: absolute;
 	width: 235px;
 	height: 85px;
@@ -78,7 +78,7 @@
 	margin-left: 22%;
 	width: 260px;
 	height: 51px;
-	font-family: "Arial";
+	font-family: "Verdana";
 	color: #c4c4c4;
 }
 
@@ -120,5 +120,90 @@
 	padding: 10%;
 	align-items: center;
 	color: #d4d4d4;
+	font-family: "Verdana";
+}
+
+.center2 #map1{
+	position: relative;
+	margin-top: 80px;
+	margin-left: 360px;
+}
+
+.center2 h3{
+	font-family: "Courier New";
+	float: right;
+	margin-top: 85px;
+	margin-right: 25%;
+	width: 375px;
+	height: 85px;
+	font-size: 24px;
+}
+
+.center2 #description{
 	font-family: "Roboto";
+	width: 443px;
+	height: 207px;
+	float: right;
+	margin-top: -10%;
+	margin-right: 21.5%;
+	font-size: 14px;
+	line-height: 20px;
+	list-style: none;
+}
+
+.center2 #description li{
+	margin-bottom: 15px;
+}
+
+.center2 .dontforget ul{
+	position: absolute;
+	width: 424px;
+	height: 150px;
+	margin-top: 5%;
+	margin-left: 18%;
+}
+
+.center2 .dontforget ul li{
+	font-family: "Roboto";
+	color: #ffcb06;
+	margin-bottom: 10px;
+}
+
+.center2 .dontforget ul li span{
+	color: black;
+}
+
+.center2 .dontforget h3{
+	position: absolute;
+	margin-top: 3%;
+	margin-left: 360px;
+}
+
+.center2 .bestleave h3{
+	position: absolute;
+	margin-left: 54.7%;
+	margin-top: 3%;
+}
+
+.center2 .bestleave ul{
+	float: right;
+	width: 370px;
+	height: 150px;
+	margin-top: 5%;
+	margin-right: -23.2%;
+}
+
+.center2 .bestleave ul li{
+	font-family: "Roboto";
+	color: #ffcb06;
+	margin-bottom: 10px;
+}
+
+.center2 .bestleave ul li span{
+	color: black;
+}
+
+.footer2{
+	margin-top: 20%;
+	background-color: #222222;
 }
