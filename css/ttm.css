@@ -205,5 +205,66 @@
 
 .footer2{
 	margin-top: 20%;
-	background-color: #222222;
+	background-color: #131313;
+	font-family: "Verdana";
+	font-size: 20px;
+	font-style: normal;
+}
+
+.footer2 table{
+	margin-left: 35%;
+	width: 60%;
+	margin-top: -5%;
+	padding-bottom: 3%;
+}
+
+.footer2 table tr td{
+	padding-bottom: 3%;
+}
+
+.footer2 #big td{
+	padding-top: 5%;
+	color: white;
+	padding-bottom: 7%;
+}
+
+.footer2 .small{
+	color: #888888;
+	font-size: 16px;
+	padding-top: 10%;
+}
+
+.footer2 #logo2{
+	margin-left: 10%;
+	margin-top: 3%;
+}
+
+.footer2 h5{
+	color: white;
+	margin-left: 15%;
+	margin-top: -2%;
+	font-size: 13px;
+	font-style: normal;
+}
+
+.footer2 #copyright1{
+	position: absolute;
+	color: #555555;
+	margin-left: 15%;
+	margin-top: 3.75%;
+	font-size: 12px;
+}
+
+.footer2 #copyright2{
+	position: absolute;
+	color: #555555;
+	margin-left: 15%;
+	margin-top: 5%;
+	font-size: 12px;
+}
+
+.footer2 .line{
+	width: 5px;
+	height: 5px;
+	color:  white;
 }
