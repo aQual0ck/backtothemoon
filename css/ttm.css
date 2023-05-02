@@ -263,8 +263,26 @@
 	font-size: 12px;
 }
 
-.footer2 .line{
-	width: 5px;
-	height: 5px;
-	color:  white;
+.footer2 .line1{
+	position: absolute;
+	width: 250px;
+	height: 1px;
+	background-color: #555555;
+	margin-left: 35.2%;
+}
+
+.footer2 .line2{
+	position: absolute;
+	width: 250px;
+	height: 1px;
+	background-color: #555555;
+	margin-left: 55.7%;
+}
+
+.footer2 .line3{
+	position: absolute;
+	width: 250px;
+	height: 1px;
+	background-color: #555555;
+	margin-left: 72.2%;
 }
